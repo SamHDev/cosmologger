@@ -20,7 +20,7 @@ or with this Git Respiratory
 ```bash
 python3 -m pip install git+https://github.com/SamHDev/cosmologger.git
 ```
-*Note for Noobies: If `python3` work then use `python`*
+*Note for Newbies: If `python3` work then use `python`*
 
 
 
